@@ -1,0 +1,13 @@
+project:.python
+
+lib:(
+src.llm,
+src.llm.agents,
+src.llm.prompt,
+src.llm.base,
+src.catch,
+src.pipeline,
+src.cache,
+src.db,
+src.on
+)
