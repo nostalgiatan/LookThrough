@@ -9,5 +9,6 @@ src.catch,
 src.pipeline,
 src.cache,
 src.db,
+src.chat,
 src.on
 )
